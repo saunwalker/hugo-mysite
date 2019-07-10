@@ -19,7 +19,7 @@ theme = "hyde-hyde"
     author = "RB"
     title = "IMbbb"
     # description = "..."
-    authorimage = "/img/raja_profile.JPG"
+    authorimage = "/img/mountain.jpg"
     dateformat = "Jan 2, 2006"
 
     # sidebar, copyright & license
